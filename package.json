@@ -1,0 +1,19 @@
+{
+  "name": "semana01",
+  "version": "0.0.1",
+  "description": "Semana 1 curso C24",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Lee Tipismana",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "react-bootstrap": "^2.0.0-beta.5"
+  },
+  "devDependencies": {}
+}
