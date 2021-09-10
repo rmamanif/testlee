@@ -1,6 +1,6 @@
 {
   "name": "semana01",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Semana 1 curso C24",
   "main": "app.js",
   "scripts": {
