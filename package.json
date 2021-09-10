@@ -4,6 +4,7 @@
   "description": "Semana 1 curso C24",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "npm run dev"
   },
   "keywords": [
